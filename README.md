@@ -20,3 +20,6 @@ Get random password of custom length:
 ~/G/srand % srand pw 18
 9$W6B#SXfL)x&nbaHM
 ```
+
+### Warranty
+None
