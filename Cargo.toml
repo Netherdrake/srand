@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 getrandom = "0.2"
 blake2b_simd = "0.5.11"
+rand = {version = "*", features = ['small_rng']}
